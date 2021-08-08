@@ -25,3 +25,5 @@
 
 2\. 用pyinstaller生成可执行程序不要用 ---onefile 或 -F，
 即只生成一个文件，要不然读取不了user.txt
+
+3\. 我本人配置好的包 链接: https://pan.baidu.com/s/1jqJuLXorLESimmeJFCS2BQ 提取码: nxqr

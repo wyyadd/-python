@@ -1,4 +1,4 @@
-东南大学每日自动健康打卡（基于python selenium)
+# 东南大学每日自动健康打卡（基于python selenium)
 
 一. 代码借鉴于https://gitee.com/yindaheng98/AutoLogin
 
